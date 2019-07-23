@@ -1,0 +1,6 @@
+[submodule "github-mec-011"]
+	path = github-mec-011
+	url = https://github.com/etsi-forge/mec.gs011-app-enablement-api
+[submodule "forge-mec-011"]
+	path = forge-mec-011
+	url = https://forge.etsi.org/gitlab/mec/gs011-app-enablement-api.git
